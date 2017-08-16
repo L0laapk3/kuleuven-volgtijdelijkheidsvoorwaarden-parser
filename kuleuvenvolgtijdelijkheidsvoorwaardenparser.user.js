@@ -4,6 +4,7 @@
 // @author       L0laapk3
 // @match        https://onderwijsaanbod.kuleuven.be/*syllabi/*
 // @grant        none
+// @downloadURL	 https://github.com/L0laapk3/kuleuven-volgtijdelijkheidsvoorwaarden-parser/raw/master/kuleuvenvolgtijdelijkheidsvoorwaardenparser.user.js
 // ==/UserScript==
 
 var names = {};
